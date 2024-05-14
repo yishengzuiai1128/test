@@ -1,0 +1,447 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+proxies:
+  - name: 缅甸01
+    type: socks5
+    server: 106.75.152.119
+    port: "1000"
+    username: 9db7f5cd-afddfbf9-3dd344
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸02
+    type: socks5
+    server: 106.75.152.119
+    port: "1001"
+    username: 9db7f5cd-afddfbf9-6e7686
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸03
+    type: socks5
+    server: 106.75.152.119
+    port: "1002"
+    username: 9db7f5cd-afddfbf9-1466ec
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸04
+    type: socks5
+    server: 106.75.152.119
+    port: "1003"
+    username: 9db7f5cd-afddfbf9-a5eaa9
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸05
+    type: socks5
+    server: 106.75.152.119
+    port: "1004"
+    username: 9db7f5cd-afddfbf9-ce9c64
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸06
+    type: socks5
+    server: 106.75.152.119
+    port: "1005"
+    username: 9db7f5cd-afddfbf9-619c23
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸07
+    type: socks5
+    server: 106.75.152.119
+    port: "1006"
+    username: 9db7f5cd-afddfbf9-725d6f
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸08
+    type: socks5
+    server: 106.75.152.119
+    port: "1007"
+    username: 9db7f5cd-afddfbf9-dc367a
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸09
+    type: socks5
+    server: 106.75.152.119
+    port: "1008"
+    username: 9db7f5cd-afddfbf9-ae0170
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸10
+    type: socks5
+    server: 106.75.152.119
+    port: "1009"
+    username: 9db7f5cd-afddfbf9-5584fa
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸11
+    type: socks5
+    server: 106.75.152.119
+    port: "1010"
+    username: 9db7f5cd-afddfbf9-fe1b08
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸12
+    type: socks5
+    server: 106.75.152.119
+    port: "1008"
+    username: 9db7f5cd-afddfbf9-eaf84a
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸13
+    type: socks5
+    server: 106.75.152.119
+    port: "1010"
+    username: 9db7f5cd-afddfbf9-caf336
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸14
+    type: socks5
+    server: 106.75.152.119
+    port: "1000"
+    username: 9db7f5cd-afddfbf9-94a915
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸15
+    type: socks5
+    server: 106.75.152.119
+    port: "1007"
+    username: 9db7f5cd-afddfbf9-e897d4
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸16
+    type: socks5
+    server: 106.75.152.119
+    port: "1009"
+    username: 9db7f5cd-afddfbf9-472f06
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸17
+    type: socks5
+    server: 106.75.152.119
+    port: "1010"
+    username: 9db7f5cd-afddfbf9-a8829e
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸18
+    type: socks5
+    server: 106.75.152.119
+    port: "1007"
+    username: 9db7f5cd-afddfbf9-78b848
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸19
+    type: socks5
+    server: 106.75.152.119
+    port: "1008"
+    username: 9db7f5cd-afddfbf9-741064
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸20
+    type: socks5
+    server: 106.75.152.119
+    port: "1005"
+    username: 9db7f5cd-afddfbf9-3cd601
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸21
+    type: socks5
+    server: 106.75.152.119
+    port: "1008"
+    username: 9db7f5cd-afddfbf9-6d778e
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸22
+    type: socks5
+    server: 106.75.152.119
+    port: "1001"
+    username: 9db7f5cd-afddfbf9-5ede61
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸23
+    type: socks5
+    server: 106.75.152.119
+    port: "1005"
+    username: 9db7f5cd-afddfbf9-5d38f0
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸24
+    type: socks5
+    server: 106.75.152.119
+    port: "1005"
+    username: 9db7f5cd-afddfbf9-ed1531
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸25
+    type: socks5
+    server: 106.75.152.119
+    port: "1009"
+    username: 9db7f5cd-afddfbf9-fb67af
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸26
+    type: socks5
+    server: 106.75.152.119
+    port: "1008"
+    username: 9db7f5cd-afddfbf9-6ea49f
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸27
+    type: socks5
+    server: 106.75.152.119
+    port: "1006"
+    username: 9db7f5cd-afddfbf9-de7728
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸28
+    type: socks5
+    server: 106.75.152.119
+    port: "1004"
+    username: 9db7f5cd-afddfbf9-95c7f2
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸29
+    type: socks5
+    server: 106.75.152.119
+    port: "1004"
+    username: 9db7f5cd-afddfbf9-c2c183
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸30
+    type: socks5
+    server: 106.75.152.119
+    port: "1001"
+    username: 9db7f5cd-afddfbf9-7a7eae
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸31
+    type: socks5
+    server: 106.75.152.119
+    port: "1004"
+    username: 9db7f5cd-afddfbf9-62fbbd
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸32
+    type: socks5
+    server: 106.75.152.119
+    port: "1007"
+    username: 9db7f5cd-afddfbf9-5e88f0
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸33
+    type: socks5
+    server: 106.75.152.119
+    port: "1003"
+    username: 9db7f5cd-afddfbf9-fbef35
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸34
+    type: socks5
+    server: 106.75.152.119
+    port: "1005"
+    username: 9db7f5cd-afddfbf9-d54845
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸35
+    type: socks5
+    server: 106.75.152.119
+    port: "1001"
+    username: 9db7f5cd-afddfbf9-b98328
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸36
+    type: socks5
+    server: 106.75.152.119
+    port: "1000"
+    username: 9db7f5cd-afddfbf9-2995a4
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸37
+    type: socks5
+    server: 106.75.152.119
+    port: "1008"
+    username: 9db7f5cd-afddfbf9-5d75f1
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸38
+    type: socks5
+    server: 106.75.152.119
+    port: "1002"
+    username: 9db7f5cd-afddfbf9-d294e1
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸39
+    type: socks5
+    server: 106.75.152.119
+    port: "1006"
+    username: 9db7f5cd-afddfbf9-f6723b
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸40
+    type: socks5
+    server: 106.75.152.119
+    port: "1007"
+    username: 9db7f5cd-afddfbf9-0bd532
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸41
+    type: socks5
+    server: 106.75.152.119
+    port: "1007"
+    username: 9db7f5cd-afddfbf9-85d74a
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸42
+    type: socks5
+    server: 106.75.152.119
+    port: "1006"
+    username: 9db7f5cd-afddfbf9-62ecaa
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸43
+    type: socks5
+    server: 106.75.152.119
+    port: "1004"
+    username: 9db7f5cd-afddfbf9-aec8bd
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸44
+    type: socks5
+    server: 106.75.152.119
+    port: "1001"
+    username: 9db7f5cd-afddfbf9-0d7825
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸45
+    type: socks5
+    server: 106.75.152.119
+    port: "1008"
+    username: 9db7f5cd-afddfbf9-4255e2
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸46
+    type: socks5
+    server: 106.75.152.119
+    port: "1003"
+    username: 9db7f5cd-afddfbf9-58977f
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸47
+    type: socks5
+    server: 106.75.152.119
+    port: "1006"
+    username: 9db7f5cd-afddfbf9-33121a
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸48
+    type: socks5
+    server: 106.75.152.119
+    port: "1008"
+    username: 9db7f5cd-afddfbf9-ebee27
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸49
+    type: socks5
+    server: 106.75.152.119
+    port: "1001"
+    username: 9db7f5cd-afddfbf9-e62b69
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+  - name: 缅甸50
+    type: socks5
+    server: 106.75.152.119
+    port: "1010"
+    username: 9db7f5cd-afddfbf9-919424
+    password: wifi-mm---nay+pyi+taw
+    udp: true
+proxy-providers:
+          机场:
+            type: http
+            url: http://sub.id9.cc/sub?target=clash&url=https%3A%2F%2Ftagcdnsub.work%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Ddc60e33dfc89111723abc04fbc671954&insert=false&udp=false
+            interval: 86400
+            path: ./proxy_provider/jc.yaml
+            udp: false
+            health-check:
+              enable: true
+              interval: 600
+              url: http://www.gstatic.com/generate_204
+proxy-groups:
+  - name: 主线路
+    proxies:
+      - DIRECT
+      - 谷歌分流
+    use:
+      - 机场
+    type: select
+    disable-udp: true
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  - name: 谷歌分流
+    proxies:
+      - 缅甸01
+      - 缅甸02
+      - 缅甸03
+      - 缅甸04
+      - 缅甸05
+      - 缅甸06
+      - 缅甸07
+      - 缅甸08
+      - 缅甸09
+      - 缅甸10
+      - 缅甸11
+      - 缅甸12
+      - 缅甸13
+      - 缅甸14
+      - 缅甸15
+      - 缅甸16
+      - 缅甸17
+      - 缅甸18
+      - 缅甸19
+      - 缅甸20
+      - 缅甸21
+      - 缅甸22
+      - 缅甸23
+      - 缅甸24
+      - 缅甸25
+      - 缅甸26
+      - 缅甸27
+      - 缅甸28
+      - 缅甸29
+      - 缅甸30
+      - 缅甸31
+      - 缅甸32
+      - 缅甸33
+      - 缅甸34
+      - 缅甸35
+      - 缅甸36
+      - 缅甸37
+      - 缅甸38
+      - 缅甸39
+      - 缅甸40
+      - 缅甸41
+      - 缅甸42
+      - 缅甸43
+      - 缅甸44
+      - 缅甸45
+      - 缅甸46
+      - 缅甸47
+      - 缅甸48
+      - 缅甸49
+      - 缅甸50
+    type: select
+    disable-udp: false
+    health-check:
+      enable: false
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+rules:
+  - DOMAIN,play.googleapis.com,谷歌分流
+  - DOMAIN,myaccount.google.com,谷歌分流
+  - DOMAIN-KEYWORD,accounts.google.com,谷歌分流
+  - DOMAIN,play-fe.googleapis.com,谷歌分流
+  - DOMAIN,sspanel.net,谷歌分流
+  - DOMAIN,payments-pa.googleapis.com,谷歌分流
+  - MATCH,主线路
